@@ -6,16 +6,16 @@
         <description>Most recent PandaPal release.</description>
         <language>en</language>
         <item>
-            <title>Version 1.26.0</title>
-            <link>https://github.com/digittl/pet-panda/releases/tag/v1.26.0</link>
-            <sparkle:version>1.26.0</sparkle:version>
-            <sparkle:shortVersionString>1.26.0</sparkle:shortVersionString>
+            <title>Version 1.27.0</title>
+            <link>https://github.com/digittl/pet-panda/releases/tag/v1.27.0</link>
+            <sparkle:version>1.27.0</sparkle:version>
+            <sparkle:shortVersionString>1.27.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <pubDate>Fri, 05 Jun 2026 14:21:30 +0000</pubDate>
+            <pubDate>Fri, 05 Jun 2026 22:46:08 +0000</pubDate>
             <enclosure
-                url="https://github.com/digittl/pet-panda-dist/releases/download/v1.26.0/PandaPal.zip"
-                sparkle:edSignature="qUir+NAP92D1HodlyVvL2CTcLxybOE1autW6YSW3SF4KaRMXkw9HgHJGCZWjonrZlwfSU79vJGgfciPEP1KQAg=="
-                length="106791133"
+                url="https://github.com/digittl/pet-panda-dist/releases/download/v1.27.0/PandaPal.zip"
+                sparkle:edSignature="GLhCtppkGK4vuTdFSCLc422MyK2SKQ2+fTrftG6SRPdQK2KnAEu9KY4jmS7MPwdtY2YsdUGJSG9zPEooXVPzAQ=="
+                length="107299282"
                 type="application/octet-stream" />
         </item>
     </channel>
